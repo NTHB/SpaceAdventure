@@ -107,6 +107,7 @@
 				TargetAttributes = {
 					F9A13B891ADDD6990057A316 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = 87YJPWK77H;
 						LastSwiftMigration = 0820;
 					};
 				};
@@ -226,6 +227,7 @@
 		F9A13B921ADDD6990057A316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 87YJPWK77H;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

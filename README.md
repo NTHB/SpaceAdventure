@@ -1,7 +1,3 @@
-## Deprecation Warning
-
-The Swift Education materials are out of date, and are no longer maintained.
-
 # SpaceAdventure
 
 ### Level 1, Fifteen Lessons
